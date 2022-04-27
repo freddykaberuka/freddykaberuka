@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Freddy</h1>
 <h3>Software Developer</h3>
 
-- 🔭 I’m currently working as a **Freelancer web developer and part-time Bevoice Org**.
+- 🔭 I’m currently working as a **Freelancer and part-time at Bevoice Org**.
 
 - 🌱 I’m currently learning **full-stack web development at Microverse , docker, kubernetes, Ruby on Rails, react**.
 
