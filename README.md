@@ -12,7 +12,6 @@
   <a href="https://github.com/freddykaberuka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freddykaberuka&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddykaberuka&layout=compact&langs_count=7&theme=gruvbox"/>
-    <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=freddykaberuka&theme=gruvbox&title_color=00DB49&text_color=8A8FA0"/>
 </a>
 </div>
 <h5 align="center">©️ Freddy 2022</h5>
