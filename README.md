@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Freddy</h1>
 <h3>Software Developer</h3>
 
-- 🔭 I’m currently working as a **Sofware Engineer in Andela**.
+- 🔭 I’m currently working as a **Sofware Engineer at Andela**.
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Ruby on Rails**.
 
