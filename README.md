@@ -1,11 +1,10 @@
 <h1>Hi there 👋, I'm Freddy</h1>
-<h3>Software Developer</h3>
+<h3>I am a Software Engineer</h3>
+<h3>About me</h3>
 
-- 🔭 I’m currently working as a **Sofware Engineer at Andela**.
+I’m an engineer who has an avid and consistent growth mindset, who believes strongly in integrity, and who has ambitious goals of contributing to the community by offering solutions that utilize my skills of software engineering.
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Ruby on Rails**.
-
-- 👯 I’m looking to collaborate on **Any open source project**.
+💻 I am a Pentester Enthusiast, and I like to take challenges and come up with solutions..
  <h3 align="center">My GitHub Stats</h3> 
 
 <div>
