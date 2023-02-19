@@ -6,7 +6,9 @@ I’m an engineer who has an avid and consistent growth mindset, who believes st
 
 💻 I am a Pentester Enthusiast, and I like to take challenges and come up with solutions..
  <h3 align="center">My GitHub Stats</h3> 
-
+ <div>
+https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/freddykaberuka/visitors-badge
+ </div>
 <div>
   <a href="https://github.com/freddykaberuka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freddykaberuka&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
